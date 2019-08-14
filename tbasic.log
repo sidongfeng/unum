@@ -1,0 +1,1315 @@
+Counters:
+  gtgQ:
+    Hash: 0x000000000000038f
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  spanszerogQ:
+    Hash: 0x000f3ce34e34e34d
+    Counters: 10
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  fprint_gb:
+    Hash: 0x000000028a3cf34d
+    Counters: 7
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0]
+  ubnd_sqrt:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ubnd2g:
+    Hash: 0x000000000000028f
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  squareg:
+    Hash: 0x000000000000a28a
+    Counters: 4
+    Function count: 0
+    Block counts: [0, 0, 0]
+  __gmpz_get_ui:
+    Hash: 0x000000000000000d
+    Counters: 2
+    Function count: 100010
+    Block counts: [100010]
+  negateg:
+    Hash: 0x000000000000a28a
+    Counters: 4
+    Function count: 0
+    Block counts: [0, 0, 0]
+  scale:
+    Hash: 0x000000000000028d
+    Counters: 3
+    Function count: 40008
+    Block counts: [0, 14898]
+  sscan_un:
+    Hash: 0x000000000000028a
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  __inline_isnanl:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  gbnd_clear:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 20000
+    Block counts: []
+  plusu:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  timesu:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ubnd_get_d:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  view_uenv:
+    Hash: 0x000000000000000a
+    Counters: 2
+    Function count: 0
+    Block counts: [0]
+  ubnd_get_str:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  timesg:
+    Hash: 0x7c6050aabd7a36fc
+    Counters: 84
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  mpf_mul_si:
+    Hash: 0x000000000000a3ca
+    Counters: 4
+    Function count: 630704
+    Block counts: [0, 630704, 0]
+  cliphg:
+    Hash: 0x000000000028f28a
+    Counters: 5
+    Function count: 0
+    Block counts: [0, 0, 0, 0]
+  nth_root_clear:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  divideg:
+    Hash: 0xb264c08d83945f2e
+    Counters: 94
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  sscan_ub:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  cmpgQ:
+    Hash: 0x000000000028f34d
+    Counters: 5
+    Function count: 0
+    Block counts: [0, 0, 0, 0]
+  unum_set_env:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 2
+    Block counts: []
+  unum_get_ui:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  mpf_exp:
+    Hash: 0x000000000a28a28a
+    Counters: 6
+    Function count: 20000
+    Block counts: [0, 20000, 10068, 20000, 10068]
+  powg:
+    Hash: 0x84a762a58940bbd0
+    Counters: 18
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  scan_ub:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  gbnd.c:divideposright:
+    Hash: 0x5e3b2b8cab467ede
+    Counters: 19
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  unum_guess:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  cmpuQ:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ubnd_same:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  u2g:
+    Hash: 0x000000000000000a
+    Counters: 2
+    Function count: 10000
+    Block counts: [10000]
+  gnum_clear:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 20000
+    Block counts: []
+  gbnd_init:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 20000
+    Block counts: []
+  g2ur:
+    Hash: 0x000000000028f28a
+    Counters: 5
+    Function count: 0
+    Block counts: [0, 0, 0, 0]
+  print_un:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_get_d:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_add:
+    Hash: 0x000000000000028a
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  print_gb:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  f2g:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_lt:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  squareu:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  exact:
+    Hash: 0x000000000000038e
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  randomFloat:
+    Hash: 0x000000028a10a284
+    Counters: 7
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0]
+  ubnd_set_ui:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  concat:
+    Hash: 0x000000000000034d
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  tbasic.c:unifypos:
+    Hash: 0x291620917d08996a
+    Counters: 48
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  mpn_export_b:
+    Hash: 0x00000000000000ca
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  unum_clear_env:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 1
+    Block counts: []
+  unum_get_str:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  numbits:
+    Hash: 0x0000000000000002
+    Counters: 2
+    Function count: 30000
+    Block counts: [30000]
+  __istype:
+    Hash: 0x000000000000000d
+    Counters: 2
+    Function count: 0
+    Block counts: [0]
+  ubnd_lt:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  scan_gb:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  maxg:
+    Hash: 0x000000000028f28a
+    Counters: 5
+    Function count: 0
+    Block counts: [0, 0, 0, 0]
+  ubnd_view:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  mpn_clrbit:
+    Hash: 0x000000000000000a
+    Counters: 2
+    Function count: 0
+    Block counts: [0]
+  isascii:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  sprint_gb:
+    Hash: 0x000028334a3cf34d
+    Counters: 9
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0]
+  ui2ub:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ubnd_load:
+    Hash: 0x000000000000000a
+    Counters: 2
+    Function count: 10000
+    Block counts: [0]
+  midpoint:
+    Hash: 0x028f28a38a34a34d
+    Counters: 11
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ubnd_pow:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ubnd_store:
+    Hash: 0x000000000000000a
+    Counters: 2
+    Function count: 20000
+    Block counts: [0]
+  g2f:
+    Hash: 0x000000000a28f28f
+    Counters: 6
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0]
+  absg:
+    Hash: 0x000000a28d28d28a
+    Counters: 8
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0]
+  find_pow_digits:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ubnd_get_ui:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  num_same:
+    Hash: 0x78eadb7a1a7f5ee6
+    Counters: 13
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  Feynman:
+    Hash: 0x000000000000408a
+    Counters: 4
+    Function count: 0
+    Block counts: [0, 0, 0]
+  unum_store:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 20000
+    Block counts: []
+  unify:
+    Hash: 0x4248560f5c7baf42
+    Counters: 17
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  minusu:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  sqrtu:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  toupper:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  negateu:
+    Hash: 0x000000a34a38d34a
+    Counters: 8
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0]
+  unum_div:
+    Hash: 0x000000000000028a
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  combinegb:
+    Hash: 0x2a3a175c99a7aa37
+    Counters: 71
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  fscan_un:
+    Hash: 0x000000000000028a
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  g2d:
+    Hash: 0x000000000000a28a
+    Counters: 4
+    Function count: 0
+    Block counts: [0, 0, 0]
+  ubnd_nbytes:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  print_stats:
+    Hash: 0x000000a10428410a
+    Counters: 8
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0]
+  cliplu:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ubnd_guess:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_set_si:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_print:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  __inline_isnand:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 10000
+    Block counts: []
+  set_uenv:
+    Hash: 0x000028a3cf3cd28a
+    Counters: 9
+    Function count: 2
+    Block counts: [1, 0, 2, 2, 2, 0, 0, 0]
+  d2un:
+    Hash: 0x000000a34d28d34d
+    Counters: 8
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0]
+  logg:
+    Hash: 0x000000a28f28a28a
+    Counters: 8
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0]
+  minusg:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  clear_uenv:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 1
+    Block counts: []
+  ubnd_set_si:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  freeStr:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ltuQ:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  nth_root_init:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_pow:
+    Hash: 0x000000000000028a
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  si2g:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ubnd_seq:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  print_ub:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ubnd_neq:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  utag:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 20002
+    Block counts: []
+  unum_mul:
+    Hash: 0x000000000000028a
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  gbnd.c:neg_gn:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  mpn_sizeinbase_n:
+    Hash: 0x000000000000308a
+    Counters: 4
+    Function count: 0
+    Block counts: [0, 0, 0]
+  ubnd_set_str:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  dec2fra:
+    Hash: 0x000000000000034d
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  unum_nbytes:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ubnd_div:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  d2ub:
+    Hash: 0x000000a34d28d34d
+    Counters: 8
+    Function count: 10000
+    Block counts: [0, 0, 10000, 0, 0, 10000, 0]
+  unum_scan:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  uview_gb:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  gbnd.c:cmp_gn:
+    Hash: 0x000a38d28e34a34d
+    Counters: 10
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  Taylor_Series_Log:
+    Hash: 0x000000000000008a
+    Counters: 3
+    Function count: 558916
+    Block counts: [137253378, 558916]
+  ubnd_log:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  fraction_clear:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_neq:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  init_uenv:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 1
+    Block counts: []
+  ubnd_print:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  mpf_log:
+    Hash: 0x000000a28208a28a
+    Counters: 8
+    Function count: 669940
+    Block counts: [0, 20000, 2177164, 0, 91024, 0, 630704]
+  unum_same:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ubnd_set:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_set:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  substring:
+    Hash: 0x000000028f3cf3cd
+    Counters: 7
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0]
+  divideu:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  nanuQ:
+    Hash: 0x000000000000028a
+    Counters: 3
+    Function count: 10000
+    Block counts: [0, 0]
+  minu:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  promotef:
+    Hash: 0x000000000000000a
+    Counters: 2
+    Function count: 0
+    Block counts: [0]
+  mpn_lshift_n:
+    Hash: 0x000000000000000a
+    Counters: 2
+    Function count: 0
+    Block counts: [0]
+  unum_sqrt:
+    Hash: 0x000000000000028a
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  __inline_isinfl:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_neg:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  uview_un:
+    Hash: 0x034434434d10d10d
+    Counters: 11
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  Taylor_Series_Exp:
+    Hash: 0x000000000000008a
+    Counters: 3
+    Function count: 20000
+    Block counts: [669940, 20000]
+  randomInt:
+    Hash: 0x000000000000a284
+    Counters: 4
+    Function count: 0
+    Block counts: [0, 0, 0]
+  ulp2:
+    Hash: 0x000000000000000d
+    Counters: 2
+    Function count: 0
+    Block counts: [0]
+  cliplg:
+    Hash: 0x000000000028f28a
+    Counters: 5
+    Function count: 0
+    Block counts: [0, 0, 0, 0]
+  fscan_ub:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_sq:
+    Hash: 0x000000000000028a
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  expu:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 10000
+    Block counts: []
+  signmask:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ubnd_get_si:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  maxu:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  nnequQ:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  isspace:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  hlayer.c:fprint_gn:
+    Hash: 0x000000000000a28d
+    Counters: 4
+    Function count: 0
+    Block counts: [0, 0, 0]
+  mpf_log_high:
+    Hash: 0x000000a28208a28a
+    Counters: 8
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0]
+  uview_ub:
+    Hash: 0x000000000000000a
+    Counters: 2
+    Function count: 0
+    Block counts: [0]
+  gtuQ:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_gt:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  powu:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ub2si:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  un2d:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  guessu:
+    Hash: 0x000000000000a28a
+    Counters: 4
+    Function count: 0
+    Block counts: [0, 0, 0]
+  ubnd_scan:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  find_digits:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 669940
+    Block counts: []
+  unum_set_d:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  g2u:
+    Hash: 0x2b2e4f3783ff7a8c
+    Counters: 18
+    Function count: 10000
+    Block counts: [0, 10000, 0, 0, 0, 0, 0, 0, 10000, 10000, 0, 0, 0, 0, 0, 0, 0]
+  ubnd_set_d:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 10000
+    Block counts: []
+  TimeInMicros:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 2
+    Block counts: []
+  gbnd.c:timesposright:
+    Hash: 0xd59bbb60018e4476
+    Counters: 28
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  unum_abs:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  nneqgQ:
+    Hash: 0x000000000000e3cf
+    Counters: 4
+    Function count: 0
+    Block counts: [0, 0, 0]
+  ubnd_gt:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ub2ui:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  spanszerouQ:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  inexQ:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  mpf_is_even:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  samegQ:
+    Hash: 0x00003ce38e38e38e
+    Counters: 9
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0]
+  tbasic.c:cmp_gn:
+    Hash: 0x000a38d28e34a34d
+    Counters: 10
+    Function count: 10000
+    Block counts: [0, 0, 0, 0, 10000, 0, 0, 0, 0]
+  mpf_pow_2:
+    Hash: 0x342d55bd488b89a6
+    Counters: 19
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  d2g:
+    Hash: 0x000000a34d28d34d
+    Counters: 8
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0]
+  ubnd_sq:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  mpf_exp_high:
+    Hash: 0x000000000a28a28a
+    Counters: 6
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0]
+  ubnd_add:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  __inline_isinff:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_seq:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  fraction_init:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  mpn_import_b:
+    Hash: 0x00000000000000ca
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  expg:
+    Hash: 0x93911af9787ac695
+    Counters: 14
+    Function count: 10000
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  infuQ:
+    Hash: 0x000000000000028a
+    Counters: 3
+    Function count: 10000
+    Block counts: [0, 0]
+  mpn_tstbit:
+    Hash: 0x000000000000000a
+    Counters: 2
+    Function count: 0
+    Block counts: [0]
+  power:
+    Hash: 0x96ced4110529e43d
+    Counters: 51
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  mpf_pow:
+    Hash: 0xc1bfe687fc8f35dd
+    Counters: 12
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  cliphu:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  isdigit:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  sqrtg:
+    Hash: 0x000000000000a3cd
+    Counters: 4
+    Function count: 0
+    Block counts: [0, 0, 0]
+  scan_un:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  logu:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  hlayer.c:sprint_gn:
+    Hash: 0x000000000a28d0cd
+    Counters: 6
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0]
+  mpn_rshift_n:
+    Hash: 0x000000000000000a
+    Counters: 2
+    Function count: 0
+    Block counts: [0]
+  f2u:
+    Hash: 0x87c36070ee5ae657
+    Counters: 38
+    Function count: 30000
+    Block counts: [0, 4966, 10068, 0, 0, 9930, 0, 0, 0, 0, 0, 0, 0, 0, 10000, 0, 0, 0, 0, 0, 0, 0, 220020, 220022, 10000, 10000, 10000, 10000, 4966, 4966, 4966, 0, 0, 0, 0, 0, 0]
+  sprint_un:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ulp:
+    Hash: 0x000000000000000d
+    Counters: 2
+    Function count: 20000
+    Block counts: [0]
+  ubnd_neg:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  hlayer.c:sscan_gn:
+    Hash: 0x000000000a38f34e
+    Counters: 6
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0]
+  nequQ:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  sscan_gb:
+    Hash: 0x000000028a38e3ca
+    Counters: 7
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0]
+  sprint_ub:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_set_ui:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  mpn_setbit:
+    Hash: 0x000000000000000a
+    Counters: 2
+    Function count: 0
+    Block counts: [0]
+  si2ub:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  mpf_root:
+    Hash: 0x616aed93c8109a4f
+    Counters: 19
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  absu:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  __inline_isinfd:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 10000
+    Block counts: []
+  ming:
+    Hash: 0x000000000028f28a
+    Counters: 5
+    Function count: 0
+    Block counts: [0, 0, 0, 0]
+  promotee:
+    Hash: 0x000000a28e34a28a
+    Counters: 8
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0]
+  gbnd.c:timesposleft:
+    Hash: 0xebdf5042a33fbfd7
+    Counters: 26
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  u2f:
+    Hash: 0x000000000034a28a
+    Counters: 5
+    Function count: 20002
+    Block counts: [20002, 20002, 10000, 4966]
+  unum_init_env:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_exp:
+    Hash: 0x000000000000028a
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  ui2un:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ustr_same:
+    Hash: 0x028e38a38e28e38e
+    Counters: 11
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  gnum_init:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 20000
+    Block counts: []
+  smallest_term:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 578916
+    Block counts: []
+  g2si:
+    Hash: 0x000000000a28f28f
+    Counters: 6
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0]
+  ubnd_mul:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  ubnd_exp:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 10000
+    Block counts: []
+  ub2d:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  un2si:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  neqgQ:
+    Hash: 0x000000000000e3cf
+    Counters: 4
+    Function count: 0
+    Block counts: [0, 0, 0]
+  ui2g:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  demotee:
+    Hash: 0xc0b24363ea813861
+    Counters: 16
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  gbnd.c:divideposleft:
+    Hash: 0xefa2966bbac9bf45
+    Counters: 19
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ltgQ:
+    Hash: 0x000000000000038f
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  ubnd_abs:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  factorial:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 669940
+    Block counts: []
+  ne:
+    Hash: 0x000000000028f344
+    Counters: 5
+    Function count: 20004
+    Block counts: [0, 20004, 9932, 97300]
+  print_mpf:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  __inline_isnanf:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  plusg:
+    Hash: 0xd841c2b12f8008af
+    Counters: 82
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  exQ:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 10000
+    Block counts: []
+  fscan_gb:
+    Hash: 0x008a3c228228f28f
+    Counters: 11
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  unum_get_env:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 2
+    Block counts: []
+  ubnd_sub:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_load:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 10000
+    Block counts: []
+  un2ui:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  tbasic.c:ubright:
+    Hash: 0x15179e7b0d400167
+    Counters: 13
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  unum_sub:
+    Hash: 0x000000000000028a
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  unum2g:
+    Hash: 0x000000028a28a28a
+    Counters: 7
+    Function count: 10000
+    Block counts: [0, 0, 10000, 0, 0, 0]
+  __isctype:
+    Hash: 0x000000000000034f
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  __gmpz_abs:
+    Hash: 0x000000000000028d
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  hlayer.c:fscan_gn:
+    Hash: 0x000008a3ca28a28e
+    Counters: 9
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0]
+  fprint_un:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  demotef:
+    Hash: 0x000000000000a3cf
+    Counters: 4
+    Function count: 0
+    Block counts: [0, 0, 0]
+  mpz_import_b:
+    Hash: 0x000000000334308a
+    Counters: 6
+    Function count: 10000
+    Block counts: [0, 0, 0, 10000, 10000]
+  fprint_ub:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  sameuQ:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  promote:
+    Hash: 0x0000000000082082
+    Counters: 5
+    Function count: 0
+    Block counts: [0, 0, 0, 0]
+  bigu:
+    Hash: 0x000000000000028e
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  unum_log:
+    Hash: 0x000000000000028a
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  si2un:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  g2ui:
+    Hash: 0x000000028a3cd28f
+    Counters: 7
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0]
+  roundu:
+    Hash: 0x000000000000028a
+    Counters: 3
+    Function count: 0
+    Block counts: [0, 0]
+  mpz_export_b:
+    Hash: 0x000000000000d0ca
+    Counters: 4
+    Function count: 20000
+    Block counts: [20000, 0, 0]
+  main:
+    Hash: 0x429aac21f8686d5f
+    Counters: 30
+    Function count: 1
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 10000, 4966, 10000, 0, 0, 0, 0, 0, 0, 1, 1]
+  unum_view:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_get_si:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  unum_set_str:
+    Hash: 0x0000000000000000
+    Counters: 1
+    Function count: 0
+    Block counts: []
+  tbasic.c:ubleft:
+    Hash: 0x000a38d28a28a34a
+    Counters: 10
+    Function count: 0
+    Block counts: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+Functions shown: 262
+Total functions: 262
+Maximum function count: 669940
+Maximum internal block count: 137253378

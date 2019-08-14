@@ -1,0 +1,57 @@
+Copyright (c) 2016, Lawrence Livermore National Security, LLC.
+Produced at the Lawrence Livermore National Laboratory.
+Written by G. Scott Lloyd, lloyd23@llnl.gov.
+LLNL-CODE-704762.
+All rights reserved.
+
+This file is part of Unum.
+For details, see http://github.com/LLNL/unum
+Please also read COPYING.
+
+Sidong Feng 25 May 2018 edited
+
+--------------------------------------------------------------------------------
+
+This floating-point arithmetic library contains a software 
+implementation of Universal Numbers (unums) in 'C' as described by 
+John Gustafson in the book "The End of Error: Unum Computing". The 
+implementation is patterned after the prototype code printed in the 
+book. A download of the Mathematica code is available from the 
+publisher's website: 
+
+http://www.crcpress.com/The-End-of-Error-Unum-Computing/Gustafson/9781482239867
+
+--------------------------------------------------------------------------------
+Simple process for compilaton and running
+
+1. Install GMP, it is a required library
+2. Direct to the top level directory of the distribution
+2. ./configure
+3. make check
+4. ./tests/tbasic
+
+--------------------------------------------------------------------------------
+Required library
+
+The unum library uses the GNU Multiple Precision (GMP) Arithmetic 
+Library for the low-level arithmetic. GMP (http://gmplib.org/) 
+must be installed or accessible on your system to build and use the
+unum library. You are available to install GMP to a custom location,
+then define the following environment variables before running 
+"./configure". 
+
+    export CPPFLAGS=-I<path to GMP include>
+    export LDFLAGS=-L<path to libgmp>
+
+After configuring the distribution with "./configure", the existing test
+programs can be executed in a batch by running "make check" from the top 
+level directory of the distribution. Once built, they can be 
+individually run at the command line from the "tests" directory. 
+    
+    make check
+    ./tests/tbasic
+
+tbasic is a file that to test the arithmetic operations. I implement few
+tests to check the correctness of logarithm, exponential and power 
+functions in both unum and ubound type. The file contains a testing in time
+between math library and unum for evaluation.
